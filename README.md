@@ -1,4 +1,7 @@
 ### Hi there, I'm  [Ragnarstefanss!][Personal-Website]👋
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="90px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/datacamp.png" />
+</a>
 
 - 🔭 I’m currently working on my project [Forbes]
 - 🌱 I'm currently learning data science

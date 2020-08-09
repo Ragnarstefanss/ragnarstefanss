@@ -1,7 +1,7 @@
 ### Hi there, I'm  [Ragnarstefanss!][Personal-Website]👋
 <div  style="display: inline-block" >
   <a href="https://www.datacamp.com/profile/ragnarstefanss">
-    <img align="left" alt="Ragnar | Datacamp" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/datacamp.svg" />
+    <img align="left" alt="Ragnar | Datacamp" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/datacamp.png" />
   </a>
   <a href="https://www.kaggle.com/ragnarstefansson">
     <img align="left" alt="Ragnar | Kaggle" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/kaggle.svg" />

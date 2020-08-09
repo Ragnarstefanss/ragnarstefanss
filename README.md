@@ -13,7 +13,7 @@
 - 🌱 I'm currently learning data science
 - 🥅 2020 Goals: Read 52 books ( status:  21 / 52)
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
-- 🔗 [Linkedin] - [Youtube] - [Kaggle]
+- 🔗 [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
 
 <img align="left" alt="ragnarstefanss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ragnarstefanss&show_icons=true&hide_border=true" />
 
@@ -22,6 +22,7 @@
 [Linkedin]: https://linkedin.com/in/ragnarstefansson
 [Youtube]: https://www.youtube.com/channel/UCALWPT-zO46wqK6t_aJk7pg
 [Kaggle]: https://kaggle.com/ragnarstefansson
+[Datacamp]: https://www.datacamp.com/profile/ragnarstefanss
 
 <!--
 **Ragnarstefanss/ragnarstefanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

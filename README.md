@@ -1,10 +1,12 @@
 ### Hi there, I'm  [Ragnarstefanss!][Personal-Website]👋
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/datacamp.png" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/kaggle.svg" />
-</a>
+<div  style="display: inline-block" >
+  <a href="https://twitter.com/anuraghazru">
+    <img align="left" alt="Anurag Hazra | Twitter" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/datacamp.png" />
+  </a>
+  <a href="https://twitter.com/anuraghazru">
+    <img align="left" alt="Anurag Hazra | Twitter" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/kaggle.svg" />
+  </a>
+</div>
 <br />
 <br />
 - 🔭 I’m currently working on my project [Forbes]

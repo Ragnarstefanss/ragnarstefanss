@@ -1,4 +1,4 @@
-### Hi there, I'm  [Ragnarstefanss!](http://ragnarstefansson.com) 👋
+### Hi there, I'm  [Ragnarstefanss!][Personal-Website]👋
 
 - 🔭 I’m currently working on my project [Forbes]
 - 🌱 I'm currently learning data science

@@ -18,7 +18,7 @@
 <img align="left" alt="ragnarstefanss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ragnarstefanss&show_icons=true&hide_border=true" />
 
 [Personal-Website]: http://ragnarstefansson.com
-[Forbes]: https://github.com/Ragnarstefanss/forbes-python
+[Forbes 400 in Python]: https://github.com/Ragnarstefanss/forbes-python
 [Linkedin]: https://linkedin.com/in/ragnarstefansson
 [Youtube]: https://www.youtube.com/channel/UCALWPT-zO46wqK6t_aJk7pg
 [Kaggle]: https://kaggle.com/ragnarstefansson

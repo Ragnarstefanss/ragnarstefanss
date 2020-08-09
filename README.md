@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm  [Ragnarstefanss!](http://ragnarstefansson.com) 👋
 
+- 🔭 I’m currently working on my project [Forbes]
+- 🌱 I'm currently learning data science
+- 🥅 2020 Goals: Read 52 books ( status:  21 / 52)
+
+<img align="left" alt="ragnarstefanss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ragnarstefanss&show_icons=true&hide_border=true" />
+
+[Personal-Website]: http://ragnarstefansson.com
+[Forbes]: https://github.com/Ragnarstefanss/forbes-python
 <!--
 **Ragnarstefanss/ragnarstefanss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

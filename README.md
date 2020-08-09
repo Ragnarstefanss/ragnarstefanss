@@ -1,8 +1,12 @@
 ### Hi there, I'm  [Ragnarstefanss!][Personal-Website]👋
 <a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="90px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/datacamp.png" />
+  <img align="left" alt="Anurag Hazra | Twitter" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/datacamp.png" />
 </a>
-
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/kaggle.svg" />
+</a>
+<br />
+<br />
 - 🔭 I’m currently working on my project [Forbes]
 - 🌱 I'm currently learning data science
 - 🥅 2020 Goals: Read 52 books ( status:  21 / 52)

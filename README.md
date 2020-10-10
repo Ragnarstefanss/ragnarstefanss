@@ -11,7 +11,7 @@
 
 - 🔭 Side project that I am currently working on [Forbes 400 in Python]
 - 🌱 I'm currently studying data science at Reykjavík University
-- 🥅 2020 Goals: Read 52 books ( status:  21 / 52)
+- 🥅 2020 Goals: Read 52 books ( status:  22 / 52)
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
 - 🔗 [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
 

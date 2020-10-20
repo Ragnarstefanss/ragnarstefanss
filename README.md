@@ -15,8 +15,9 @@
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
 - 🔗 [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
 
+<!--
 <img align="left" alt="ragnarstefanss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ragnarstefanss&show_icons=true&hide_border=true" />
-
+-->
 [Personal-Website]: http://ragnarstefansson.com
 [Forbes 400 in Python]: https://github.com/Ragnarstefanss/forbes-python
 [Linkedin]: https://linkedin.com/in/ragnarstefansson

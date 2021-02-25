@@ -8,8 +8,10 @@
 </a>
 <br />
 <br />
-
-- 🔭 Side project that I am currently working on [Content-based-recommendation]
+<!--
+- 🔭 Side project that I am currently working on [Forbes 400 in Python]
+-->
+- 🔭 Project that I am currently working on for my research paper [Content-based-recommendation]
 - 🌱 I'm currently studying data science at Reykjavík University
 - 🥅 2021 Goals: Read 20 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**

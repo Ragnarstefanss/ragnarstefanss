@@ -6,12 +6,12 @@
 - 🌱 I'm currently studying data science at Reykjavík University
 - 🥅 2021 Goals: Read 20 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
-- 🔗 [Personal-Website] - [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
+- 🔗 [Website] - [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
 
 <!--
 <img align="left" alt="ragnarstefanss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ragnarstefanss&show_icons=true&hide_border=true" />
 -->
-[Personal-Website]: http://ragnarstefansson.com
+[Website]: http://ragnarstefansson.com
 [Forbes 400 in Python]: https://github.com/Ragnarstefanss/forbes-python
 [Content-based-recommendation]: https://github.com/Ragnarstefanss/Content-based-recommendation
 [Linkedin]: https://linkedin.com/in/ragnarstefansson

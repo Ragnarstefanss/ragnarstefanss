@@ -1,11 +1,4 @@
 ### Hi there, I'm  [Ragnarstefanss!][Personal-Website]👋
-
-<a href="https://www.datacamp.com/profile/ragnarstefanss">
-  <img align="left" alt="Ragnar | Datacamp" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/datacamp.png" />
-</a>
-<a href="https://www.kaggle.com/ragnarstefansson">
-  <img align="left" alt="Ragnar | Kaggle" width="64px" src="https://raw.githubusercontent.com/ragnarstefanss/ragnarstefanss/master/assets/kaggle.svg" />
-</a>
 <br />
 <br />
 
@@ -13,7 +6,7 @@
 - 🌱 I'm currently studying data science at Reykjavík University
 - 🥅 2021 Goals: Read 20 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
-- 🔗 [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
+- 🔗 [Personal-Website] - [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
 
 <!--
 <img align="left" alt="ragnarstefanss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ragnarstefanss&show_icons=true&hide_border=true" />

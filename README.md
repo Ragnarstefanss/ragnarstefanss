@@ -1,5 +1,5 @@
 ### Hi there, I'm  [Ragnarstefanss!][Website]👋
-- 🔭 Project that I am currently working on for my research paper [Content-based-recommendation]
+- 🔭 Learning to create a recommendation system (starting with the [Netflix] dataset)
 - 🌱 I'm currently studying data science at Reykjavík University
 - 🥅 2021 Goals: Read 20 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
@@ -11,6 +11,7 @@
 [Website]: http://ragnarstefansson.com
 [Forbes 400 in Python]: https://github.com/Ragnarstefanss/forbes-python
 [Content-based-recommendation]: https://github.com/Ragnarstefanss/Content-based-recommendation
+[Netflix]: https://github.com/Ragnarstefanss/netflix-recommendation/tree/master
 [Linkedin]: https://linkedin.com/in/ragnarstefansson
 [Youtube]: https://www.youtube.com/channel/UCALWPT-zO46wqK6t_aJk7pg
 [Kaggle]: https://kaggle.com/ragnarstefansson

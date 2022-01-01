@@ -1,7 +1,7 @@
 ### Hi there, I'm  [Ragnarstefanss!][Website]👋
 - 🔭 Currently trying to learn how to create a recommendation system (starting with the [Netflix] dataset)
 - 🌱 I'm currently studying data science at Reykjavík University
-- 🥅 2021 Goals: Read 20 books ( [View Progress] )
+- 🥅 2022 Goals: Read 10 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
 - 🔗 [Website] - [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
 

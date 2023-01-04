@@ -1,5 +1,7 @@
 ### Hi there, I'm  [Ragnarstefanss!][Website]👋
-- 🔭 Currently trying to learn how to create a recommendation system (starting with the [Netflix] dataset)
+- 🔭 Currently teaching my self to create a recommendation system 
+-- Website for the project [Hulu]
+-- Recommendation system in python [Netflix] (Currently not implemented on the website)
 - 🌱 I'm currently studying data science at Reykjavík University
 - 🥅 2022 Goals: Read 10 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
@@ -8,6 +10,7 @@
 <!--
 <img align="left" alt="ragnarstefanss's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ragnarstefanss&show_icons=true&hide_border=true" />
 -->
+[Hulu]: https://hulu-react-app-virid.vercel.app
 [Website]: http://ragnarstefansson.com
 [Forbes 400 in Python]: https://github.com/Ragnarstefanss/forbes-python
 [Content-based-recommendation]: https://github.com/Ragnarstefanss/Content-based-recommendation

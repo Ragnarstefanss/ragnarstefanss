@@ -1,9 +1,9 @@
 ### Hi there, I'm  [Ragnarstefanss!][Website]👋
 - 🔭 Currently teaching my self to create a recommendation system 
--- Website for the project [Hulu]
--- Recommendation system in python [Netflix] (Currently not implemented on the website)
-- 🌱 I'm currently studying data science at Reykjavík University
-- 🥅 2022 Goals: Read 10 books ( [View Progress] )
+  - Website for the project [Hulu]
+  - Recommendation system in python [Netflix] (Currently not implemented on the website)
+- 🎓 MSc Data science at Reykjavík University
+- 🥅 2023 Goals: Read 12 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
 - 🔗 [Website] - [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
 

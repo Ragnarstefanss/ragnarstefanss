@@ -3,7 +3,7 @@
   - Website for the project [Hulu]
   - Recommendation system in python [Netflix] (Currently not implemented on the website)
 - 🧑‍🎓 BSC Computer Science Graduate from Reykjavík University
-- 🎓 MSc Data science Graduate from Reykjavík University
+- 🎓 MSc Data Science Graduate from Reykjavík University
 - 🥅 2024 Goals: Read 7 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
 - 🔗 [Website] - [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]

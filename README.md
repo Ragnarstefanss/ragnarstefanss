@@ -4,7 +4,7 @@
   - Recommendation system in python [Netflix] (Currently not implemented on the website)
 - 🧑‍🎓 BSC Computer Science Graduate from Reykjavík University
 - 🎓 MSc Data Science Graduate from Reykjavík University
-- 🥅 2024 Goals: Read 7 books ( [View Progress] )
+- 🥅 2025 Goals: Read 7 books ( [View Progress] )
 - 📫 How to reach me **ragnar@ragnarsmedia.com**
 - 🔗 [Website] - [Linkedin] - [Youtube] - [Kaggle] - [Datacamp]
 
